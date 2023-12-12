@@ -25,3 +25,15 @@
     background-color: #04AA6D;
     color: white;
   }
+
+  body{
+    background-color: grey;
+  }
+
+  h1{
+    color: #363636;
+  }
+
+  p{
+    color: #F0ECED;
+  }
